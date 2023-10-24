@@ -1,0 +1,4 @@
+a = "Selamat Datang"
+b = "di Github Kecerdasan Buatan G.231.22.0104"
+
+print(a,b)
